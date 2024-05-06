@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KemalArdaYesilcimen
-- 👀 I’m interested in data analysis and front end development
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested in data analysis and data science
+- 🌱 I’m currently learning SQL, Power BI, R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
